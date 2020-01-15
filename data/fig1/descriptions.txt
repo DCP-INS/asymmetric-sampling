@@ -1,0 +1,6 @@
+the folder contains:
+
+-erp_pure_tones_all_roi.npy : mean ERP response to pure tones for each ROI (fig1 A top inset above the time-frequency representation)
+-erp_std_pure_tones_all_roi.npy : std from ERP response to pure tones for each ROI
+-mean_ITPC_pure_tone_all_roi.npy : mean ITPC response for each ROI (fig1 A)
+-spectrums_pure_tone_all_roi.npy: mean ITPC spectrum for each ROI (fig1 B)
