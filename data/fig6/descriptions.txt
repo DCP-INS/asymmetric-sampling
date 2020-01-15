@@ -2,3 +2,10 @@ the folder contains:
 
 - itc_syllable_pa_by_roi.npz
 it contains individual ITPC spectrum in response to syllable "pa" for each ROI
+
+- itc_syllable_ba_by_roi.npz
+it contains individual ITPC spectrum in response to syllable "ba" for each ROI
+
+-Ba.wav : syllable "ba" stimulus used for experiment
+
+-Pa.wav : syllable "pa" stimulus used for experiment
