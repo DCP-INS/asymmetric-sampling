@@ -1,0 +1,4 @@
+the folder contains: 
+
+- itc_syllable_pa_by_roi.npz
+it contains individual ITPC spectrum in response to syllable "pa" for each ROI
