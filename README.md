@@ -3,7 +3,7 @@ Giroud et al. PloS Biology 2020 "Asymmetric sampling in human auditory cortex re
 
 
 the folder contains the followings datasets: 
-- individual_itpc_pure_tones_ROIs.npy 
+individual_itpc_pure_tones_ROIs.npy 
 it represents the individual itpc values for each subject arranged by ROIs.
 it is of size : nb_subjects * nb_frequencies * nb_timesamples
 (39, 200, 334) ROI 1 : left Primary Auditory cortex (lPAC)
@@ -13,7 +13,7 @@ it is of size : nb_subjects * nb_frequencies * nb_timesamples
 (12, 200, 334) ROI 5 : left  Auditory Association cortex (lAAC)
 (12, 200, 334) ROI 6 : right Auditory Association cortex (rAAC)
 
-- frequencies.npy
+frequencies.npy
 it represents the frequencies in Hz used for calculating ITPCs
 200 freqs between 2 HZ and 250Hz log spaced
 python code : freqs= np.logspace(*np.log10([2, 250]), num=200)
