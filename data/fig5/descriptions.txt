@@ -1,0 +1,6 @@
+the folder contains the following files:
+
+-all_shafts_puretone :
+it corresponds to the ITPC spectrum of all shafts from all electrodes implanted in left and right aac during pure tone presentation
+-all_shafts_individual_limits:
+it represents the respective indexes of the boundaries between subjects (aka : number of shafts for each individual subject) 
