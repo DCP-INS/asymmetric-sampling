@@ -1,0 +1,7 @@
+the folder contains the following files
+
+-itc_pure_tones_500_by_roi
+it contains individual ITPC spectrum in response to pure tone at 500HZ for each ROI
+
+- itc_pure_tones_1k_by_roi.npz
+it contains individual ITPC spectrum in response to  pure tone at 1kHz for each ROI
