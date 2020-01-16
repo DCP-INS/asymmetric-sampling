@@ -4,3 +4,6 @@ individual ITPC spectrum in response to pure tone in the left auditory associati
 
 -itpc_spectrums_pure_tones_aac_right:
 individual ITPC spectrum in response to pure tone in the right auditory association cortex
+
+- similarity_index_pure_tone :
+ squared inverse of the MSE between individual spectrum and grpup-level spectrum 
