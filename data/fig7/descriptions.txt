@@ -1,0 +1,7 @@
+the folder contains the following files :
+-all_shafts_ba_pa:
+it corresponds to the ITPC spectrum of all shafts from all electrodes implanted in left and right aac during syllables presentation
+it starts with shaft from the left hemisphere(pa then ba) and follows with shaft from the right hemisphere (pa then ba) 
+-all_shafts_ba_pa_individual_limits:
+it represents the respective indexes of the boundaries between subjects (aka : number of shafts for each individual subject)
+in this case there are 12 subjects * 2 hemispheres * 2 conditions (pa/ba) = 48 indexes
